@@ -1,5 +1,5 @@
 # Avaliacao-1-Grupo
-Atividade avaliativa desenvolvida no dia 05/09/2023
+Atividade avaliativa desenvolvida no dia 05/09/2023\n
 Estudantes:
 Enrico Bernz Reichow Santos;
 Gabriel Marques Simini;
