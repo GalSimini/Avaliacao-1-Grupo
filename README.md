@@ -6,4 +6,6 @@ Gabriel Marques Simini; </br>
 Henrique de Oliveira Godoy; </br>
 Instituição de Ensino: Pontifícia Universidade Católica do Paraná; </br>
 Curso: Bacharelado em Ciência da Computação; </br>
-Turma: BCC - 2B.
+Turma: BCC - 2B. </br>
+</br>
+https://replit.com/@GabrielSimini/Avaliacao1-em-grupo#main.py
